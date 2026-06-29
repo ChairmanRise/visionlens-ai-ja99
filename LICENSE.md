@@ -1,4 +1,4 @@
-# 
+# Official VisionLens setup. Download and install with batch-processing and version-control — fast, secure, and easy to use.
 
 
 
